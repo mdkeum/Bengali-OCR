@@ -1,0 +1,38 @@
+Certainly! Here's an updated version of the **About** section with topics separated by spaces for clarity:
+
+---
+
+## About This Project
+
+**Bengali OCR (Optical Character Recognition)** is a powerful tool designed to extract text from images containing printed Bengali text. Whether it’s a scanned document, a page from a book, or a screenshot of a newspaper, this app can accurately recognize and extract Bengali text with minimal effort.
+
+### Key Features:
+- **Text Extraction**: Seamlessly extract Bengali text from various image formats (JPEG, PNG, TIFF, etc.).
+- **Versatile Input**: Works with scanned documents, book pages, newspaper screenshots, and other types of images.
+- **Standalone Application**: Packaged as a Windows `.exe` file, so no need to install Python or dependencies.
+- **Open-Source**: Completely free to use and modify. You can contribute to the project and improve it.
+
+### Why Bengali OCR?
+
+Bengali is one of the most widely spoken languages in the world, but it often faces challenges in the digital world, especially in terms of accurate text recognition. This OCR tool is designed to fill that gap, providing a reliable and accessible solution for converting Bengali text in images into editable, machine-readable formats.
+
+### Technologies Used:
+- **Python**: The core language used for the development of the app.
+- **Tesseract OCR**: A popular open-source OCR engine used for text recognition.
+- **OpenCV**: For image processing and enhancing text recognition accuracy.
+
+### How It Works:
+The app processes input images, extracts text using the Tesseract OCR engine, and outputs the recognized Bengali text. It works with images in various conditions, including scanned document images, book pages, and even screenshots of printed text.
+
+### Installation:
+1. **Download the `.exe` file** from the [Releases page](https://github.com/mdkeum/bengali-ocr-app/releases).
+2. **Run the executable** to start using the Bengali OCR app.
+3. **No need for Python** or any other dependencies!
+
+### Contributing:
+This is an open-source project, and contributions are always welcome! Feel free to fork the repository, report bugs, or submit pull requests with new features or improvements.
+
+### License:
+This project is licensed under the [MIT License](LICENSE), which allows you to freely use, modify, and distribute the software.
+
+---
